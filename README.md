@@ -1,2 +1,15 @@
-# misty_chat
-我的聊天/文件保存项目
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
